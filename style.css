@@ -1,7 +1,9 @@
+
 h1{
     background-color: aqua;
 }
 li{
     display: inline;
     float:right;
+    padding: 20px;
 }
