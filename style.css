@@ -3,4 +3,5 @@ h1{
 }
 li{
     display: inline;
+    float:right;
 }
