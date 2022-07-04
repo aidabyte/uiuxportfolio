@@ -2,10 +2,84 @@ body{
 background-color: rgb(255, 248, 238);
 }
 h1{
-    background-color: aqua;
+    
+    font-family: 'Chicle', 'cursive','Open Sans', sans-serif;
+    padding-top:30px; 
+    text-align: center;
+   
+    font-size: 50px;
+
 }
+h2{
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#logo{
+    width:50px;
+    height:50px;
+    left: -700px;
+    display: inline-block;
+ 
+
+}
+#skillsphoto{
+    padding-top:150px;
+    width: 350px;
+    height: 250px;
+
+}
+
+
 li{
     display: inline;
     float:right;
     padding: 20px;
+    color: black;
+    vertical-align: top
 }
+/* ul{
+    /* width: 50%; */
+    /* margin-left: auto; */
+/* } */ 
+/* .ul2{
+    
+    vertical-align: top;
+    text-align: center;
+
+} */
+.lines{
+    padding: 30px;
+    display: inline-block;
+
+    
+   
+
+}
+.logo{
+    width: 23%;
+    padding:1%;
+    text-align: center;
+}
+nav{
+   display: inline;
+   width:50%;
+   
+}
+
+/* .heroImg{
+    height: 800px;
+    padding: 25px;
+} */
+
+footer{
+    /* display: inline; */
+    background-color:rgb(243, 213, 159);
+    text-align: center;
+    
+    
+}
+
+
+
