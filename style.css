@@ -17,10 +17,10 @@ h2{
 }
 
 #logo{
-    width:50px;
-    height:50px;
-    left: -700px;
+    width:60px;
+    height:60px;
     display: inline-block;
+    padding-left: 100px;
  
 
 }
@@ -28,16 +28,50 @@ h2{
     padding-top:150px;
     width: 350px;
     height: 250px;
+    padding-bottom: 50px;
+    padding-left: 100px;
 
+}
+.logo{
+    width: 23%;
+    padding:1%;
+    text-align: center;
+}
+
+#latestworkphoto{
+    width: 350px;
+    height: 150px;
+    padding-left: 150px;
+}
+#rootedphoto{
+    width: 400px;
+    height: 350px;
+    border-color: black;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-bottom: 50px;
+}
+#nonprofitphoto{
+    width: 400px;
+    height: 350px;
+    border-color: black;
+    padding-top: 50px;
+    padding-left: 150px;
+    padding-bottom: 50px;
 }
 
 
 li{
     display: inline;
     float:right;
-    padding: 20px;
+    padding-top: 20px;
     color: black;
-    vertical-align: top
+    vertical-align: top;
+    padding-right: 100px;
+
+}
+ul{
+    
 }
 /* ul{
     /* width: 50%; */
@@ -57,16 +91,7 @@ li{
    
 
 }
-.logo{
-    width: 23%;
-    padding:1%;
-    text-align: center;
-}
 
-#latestworkphoto{
-    width: 350px;
-    height: 150px;
-}
 nav{
    display: inline;
    width:50%;
