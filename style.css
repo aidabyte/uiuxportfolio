@@ -29,7 +29,7 @@ h2{
     width: 350px;
     height: 250px;
     padding-bottom: 50px;
-    padding-left: 100px;
+    padding-left: 60px;
 
 }
 .logo{
@@ -41,18 +41,18 @@ h2{
 #latestworkphoto{
     width: 350px;
     height: 150px;
-    padding-left: 150px;
+    padding-left: 120px;
 }
 #rootedphoto{
-    width: 400px;
+    width: 700px;
     height: 350px;
     border-color: black;
     padding-top: 50px;
-    padding-left: 150px;
+    padding-left: 50px;
     padding-bottom: 50px;
 }
 #nonprofitphoto{
-    width: 400px;
+    width: 700px;
     height: 350px;
     border-color: black;
     padding-top: 50px;
