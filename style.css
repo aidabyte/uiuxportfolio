@@ -70,9 +70,7 @@ li{
     padding-right: 100px;
 
 }
-ul{
-    
-}
+
 /* ul{
     /* width: 50%; */
     /* margin-left: auto; */
@@ -85,17 +83,13 @@ ul{
 } */
 .lines{
     padding: 30px;
-    display: inline-block;
-
-    
-   
+    display: inline-block; 
 
 }
 
 nav{
    display: inline;
    width:50%;
-   
 }
 
 /* .heroImg{
