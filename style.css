@@ -100,7 +100,7 @@ li{
   
 }
 #nonprofitText{
-    /* padding-left: 850px; */
+
     font-family: 'Chicle', 'cursive','Open Sans', sans-serif;
     padding-top:50px; 
     font-size: 50px;
@@ -130,7 +130,6 @@ nav{
 
 hr{
     border: 1px solid black;
-    
 
 }
 #space{
@@ -155,9 +154,7 @@ hr{
 }
 
 footer{
-    /* display: inline; */
-
-    text-align: center;
+text-align: center;
 }
 #lineFooter{
     padding-bottom:30px;
